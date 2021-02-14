@@ -3,11 +3,9 @@ package fuga
 import (
 	"fmt"
 
-	"./export"
+	"github.com/golang-sandbox/export/export"
 )
 
 func fuga() {
-
-	fmt.Println(export.Export)
-
+	fmt.Println(export.Fuga)
 }
