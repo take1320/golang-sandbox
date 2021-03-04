@@ -10,6 +10,4 @@ docker-compose exec app go run main.go
 
 ## その他
 その２
-その３
-その４
 
