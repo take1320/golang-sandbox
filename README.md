@@ -1,7 +1,6 @@
 # golang-sandbox
 
-Go 言語の検証リポジトリ
-
+Go 言語の検証リポジトリ 
 ## 実行
 
 ```
@@ -13,7 +12,4 @@ docker-compose exec app go run main.go
 その２
 その３
 その４
-その５
-その６
-その６
 
